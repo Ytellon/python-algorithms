@@ -11,3 +11,7 @@ Para quem está interessado em desenvolvimento web, este repositório inclui pro
 Além disso, há uma seção dedicada a interface gráfica com PySide6 (Qt 6) com Python, para quem deseja criar aplicativos com interfaces gráficas.
 
 Também incluí um capítulo sobre testes com TDD básico no Python, para garantir que seu código esteja funcionando como esperado.
+
+----
+
+[section 1]: programming logic (in progress)
