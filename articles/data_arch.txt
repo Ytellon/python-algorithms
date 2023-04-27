@@ -1,0 +1,20 @@
+Você já ouviu falar em estrutura de dados?
+
+É um conceito fundamental na área de ciência da computação e programação, que se refere à organização e armazenamento de dados em uma aplicação ou sistema.
+
+A escolha da estrutura de dados correta pode fazer uma grande diferença no desempenho, escalabilidade e manutenibilidade de uma aplicação. Existem diversas estruturas de dados disponíveis, cada uma com suas próprias características, vantagens e desvantagens.
+
+Algumas das principais estruturas de dados incluem:
+
+Arrays: uma estrutura simples que armazena um conjunto de elementos do mesmo tipo, em uma sequência contígua na memória. Os arrays são eficientes para acessar elementos em ordem, mas menos eficientes para inserir ou remover elementos no meio.
+
+Listas ligadas: uma estrutura que consiste em nós encadeados, cada um contendo um elemento e um ponteiro para o próximo nó. As listas ligadas são eficientes para inserir ou remover elementos no meio, mas menos eficientes para acessar elementos em ordem.
+
+Árvores: uma estrutura hierárquica que consiste em nós conectados por arestas. Cada nó pode ter vários filhos e um único pai. As árvores são eficientes para buscar, inserir e remover elementos de forma organizada e escalável.
+
+Tabelas hash: uma estrutura que mapeia chaves a valores usando uma função hash. As tabelas hash são eficientes para buscar e inserir elementos, mas podem ter colisões de chaves e requerem uma boa função hash para obter um bom desempenho.
+
+Ao escolher a estrutura de dados correta, é possível otimizar o desempenho da aplicação, economizar recursos de memória e processamento, e tornar o código mais fácil de entender e manter.
+Se você é um desenvolvedor, é importante entender as diferentes estruturas de dados e saber escolher a mais adequada para cada situação. E se você é um líder de tecnologia, considere investir em treinamento e ferramentas para garantir que seus desenvolvedores possam escolher as melhores estruturas de dados para suas aplicações.
+
+mais sobre: https://www.cin.ufpe.br/~ara/algoritmos-%20portugu%C3%AAs-%20cormen.pdf
