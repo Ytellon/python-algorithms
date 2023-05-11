@@ -13,5 +13,3 @@ Além disso, há uma seção dedicada a interface gráfica com PySide6 (Qt 6) co
 Também incluí um capítulo sobre testes com TDD básico no Python, para garantir que seu código esteja funcionando como esperado.
 
 ----
-
-[section 1]: programming logic (in progress)
